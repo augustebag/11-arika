@@ -27,5 +27,5 @@ Design: [Arika](http://adhyasoft.com/themeforest/arika/arika/index-01.html)
 
 ## Author
 
-Augustė [Github](https://github.com/augustebag)
+[Augustė](https://github.com/augustebag)
 
