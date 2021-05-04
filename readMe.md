@@ -12,7 +12,7 @@ This project is for educational purposes only.
 
 Site published at https://augustebag.github.io/11-arika/
 
-Design: [Arika] (http://adhyasoft.com/themeforest/arika/arika/index-01.html)
+Design: [Arika](http://adhyasoft.com/themeforest/arika/arika/index-01.html)
 
 ## Project features
 
@@ -27,5 +27,5 @@ Design: [Arika] (http://adhyasoft.com/themeforest/arika/arika/index-01.html)
 
 ## Author
 
-[Auguste] (https://github.com/augustebag)
+Augustė [Github](https://github.com/augustebag)
 
