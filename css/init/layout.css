@@ -1,0 +1,61 @@
+.container {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+}
+
+.container > .row {
+    display: inline-block;
+    width: 100%;
+}
+
+.container > .row > [class*="col-"] {
+    float: left;
+}
+.container > .row > .col-1 {
+    width: 100%;
+}
+.container > .row > .col-2 {
+    width: 100%;
+}
+.container > .row > .col-3 {
+    width: 100%;
+}
+.container > .row > .col-4 {
+    width: 100%;
+}
+.container > .row > .col-5 {
+    width: 100%;
+}
+.container > .row > .col-6 {
+    width: 100%;
+}
+.container > .row > .col-7 {
+    width: 100%;
+}
+.container > .row > .col-8 {
+    width: 100%;
+}
+.container > .row > .col-9 {
+    width: 100%;
+}
+.container > .row > .col-10 {
+    width: 100%;
+}
+.container > .row > .col-11 {
+    width: 100%;
+}
+.container > .row > .col-12 {
+    width: 100%;
+}
+
+@media (min-width: 575px) {
+}
+@media (min-width: 767px) { 
+}
+@media (min-width: 991px) {
+}
+@media (min-width: 1199px) {
+}
+@media (min-width: 1399px) {
+}
